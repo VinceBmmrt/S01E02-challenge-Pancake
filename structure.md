@@ -1,0 +1,36 @@
+- Le plus gros titre
+    - Titre secondaire "Résumé"
+        - Paragraphe
+        - Paragraphe
+        - Paragraphe
+    - Titre secondaire "Préparation"
+        - Sous-titre "Ustensiles"
+            - Liste non ordonnée
+                - List item
+                - List item
+                - List item
+                - List item
+                - List item
+        - Sous-titre "Ingrédients"
+            - Paragraphe
+            - Liste non ordonnée
+                - List item
+                - List item
+                - List item
+                - List item
+                - List item
+                - List item
+
+    - Titre secondaire "Instructions"
+        - Sous-titre "La pâte"
+            - Liste ordonnée
+                - List item
+                - List item
+                - List item
+                - List item
+                - List item
+        - Sous-titre "La cuisson"
+            - Paragraphe
+            - Paragraphe
+    - Titre secondaire "Dégustation"
+        - Paragraphe

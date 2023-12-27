@@ -1,0 +1,37 @@
+body {
+    background-color: #fff3db;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p, ul, ol {
+    text-align: left;
+}
+
+h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color: #f02425;
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+    color: #f02425;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    color: #333;
+}
+
+strong, em {
+    color: #f02425;
+    font-style: normal;
+}
